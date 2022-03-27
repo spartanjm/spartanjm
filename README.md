@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @spartanjm
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on learning GO
+- 🌱 I’m currently learning GO,Java,PY
+- 💞️ I’m looking to collaborate on learning programming skills.
 - 📫 How to reach me 
 
 <!---
